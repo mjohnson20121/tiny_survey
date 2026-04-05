@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4e5b7bcf-a004-4fd8-a5b4-47ba10934e5f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tiny-survey-mjohnson20121",
+    "appService.deploySubpath": "."
+}
